@@ -10,7 +10,7 @@ I have been interested in coding for a while and finally decided to take the ste
 * ✉️  You can contact me at [Sanohoang@gmail.com](mailto:Sanohoang@gmail.com)
 * 🧠  I'm learning Algorithms and Data Structures.
 * 🤝  I'm open to collaborating on projects and building new apps.
-* ⚡  I love spending time with my wife and kids and a big anime fanatic.
+* ⚡  I love spending time with my wife and kids, watching anime and have a hobby for cars.
 
 ### Skills
 
