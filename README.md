@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I have been interested in coding for a while and finally decided to take the step by joining the Flatiron Software Engineer course. Through this rigorous curriculum, I learned many skills including Javascript, React, Python, Flask and OOP.
+I have been interested in coding for a while and finally decided to take the step by enrolling and graduating from the Flatiron Software Engineer course. Through this rigorous curriculum, I learned many skills including Javascript, React, Python, Flask and OOP.
 
 * 🌍  I'm based in Joplin, MO but willing to relocate if needed.
 * ✉️  You can contact me at [Sanohoang@gmail.com](mailto:Sanohoang@gmail.com)
