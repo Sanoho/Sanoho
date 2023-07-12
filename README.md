@@ -7,7 +7,7 @@ Full-Stack Developer
 I have been interested in coding for a while and finally decided to take the step by joining the Flatiron Software Engineer course. Through this rigorous curriculum, I learned many skills including Javascript, React, Python, Flask and OOP.
 
 * 🌍  I'm based in Joplin, MO but willing to relocate if needed.
-* 🖥️  See my portfolio at [MyPortfolio](http://timhoang.vercel.app/)
+* 🖥️  See my portfolio at [timhoang](http://timhoang.vercel.app/)
 * ✉️  You can contact me at [Sanohoang@gmail.com](mailto:Sanohoang@gmail.com)
 * 🧠  I'm learning Algorithms and Data Structures.
 * 🤝  I'm open to collaborating on projects and building new apps.
